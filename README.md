@@ -14,7 +14,7 @@ Welcome to my guide! This is where I explain how GitHub works.
 ## 🧭 Navigation
 * [How to Install Git](#-how-to-install-git)
 * [Top 5 Commands](#-top-5-commands)
-* [My Learning Journey](#-my-learning-journey)
+
 
 ---
 
@@ -36,5 +36,5 @@ To start using GitHub on your computer, you need the Git "engine":
 | `git push` | Uploads your saves to the internet. |
 
 
-*Created with ❤️ by a Frontend Student.*
+
 
