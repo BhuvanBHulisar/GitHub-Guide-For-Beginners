@@ -1,7 +1,7 @@
 # GitHub-Guide-For-Beginners
 A beginner-friendly visual guide to mastering GitHub. Explaining Repositories, Commits, and Pull Requests through a clean, scrollable presentation. Built for students, by a student.
 
-#Git VS GitHub
+# Git VS GitHub
 <img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/783bb416-c85d-4c6c-8ecc-eebac11f71b9" />
 
 
