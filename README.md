@@ -5,12 +5,9 @@ A beginner-friendly visual guide to mastering GitHub. Explaining Repositories, C
 
 Welcome to my guide! This is where I explain how GitHub works.
 
- 📋 Lesson Plan
-| Topic | What it means |
-
-| **Repository** | A folder for your project. |
-| **Commit** | Saving your work with a note. |
-| **Push** | Sending your work to the internet. |
+| **Repository**  A folder for your project. |
+| **Commit**  Saving your work with a note. |
+| **Push**  Sending your work to the internet. |
 
 ### 🛠️ My Skills
 * 💻 Frontend Development
