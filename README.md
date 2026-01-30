@@ -8,7 +8,7 @@ Welcome to my guide! This is where I explain how GitHub works.
 | **Repository**  A folder for your project. |
 | **Commit**  Saving your work with a note. |
 | **Push**  Sending your work to the internet. |
-
+ 
 ---
 
 ## 🧭 Navigation
