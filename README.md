@@ -9,19 +9,12 @@ A beginner-friendly visual guide to mastering GitHub. Explaining Repositories, C
 
 # 🚀 My GitHub Learning Guide
 
-Welcome to my guide! This is where I explain how GitHub works.
+## Welcome to my guide! This is where I explain how GitHub works.
 
 | **Repository**  A folder for your project. |
 | **Commit**  Saving your work with a note. |
 | **Push**  Sending your work to the internet. |
  
----
-
-## 🧭 Navigation
-* [How to Install Git](#-how-to-install-git)
-* [Top 5 Commands](#-top-5-commands)
-
-
 ---
 
 ## 📥 How to Install Git
